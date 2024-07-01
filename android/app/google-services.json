@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675039596927",
+    "project_id": "vediocalling-3e641",
+    "storage_bucket": "vediocalling-3e641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675039596927:android:e4ed603ef588c7ab514a4a",
+        "android_client_info": {
+          "package_name": "com.example.vediocallingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYENrShiMJ4nUioHA8Y-_iHfr7A4R4fEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
